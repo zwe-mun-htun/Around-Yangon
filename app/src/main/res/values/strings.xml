@@ -1,0 +1,317 @@
+<resources>
+    <string name="app_name">Around Yangon</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="title">
+        <item>Bus Stop</item>
+        <item>Cinema</item>
+        <item>Fire Station</item>
+        <item>Hospital</item>
+        <item>Hotel</item>
+        <item>Pagodas</item>
+        <item>Park</item>
+        <item>Police</item>
+        <item>Railway Station</item>
+        <item>Restaurant</item>
+        <item>Shopping Center</item>
+        <item>University</item>
+    </string-array>
+
+
+    <string-array name="police_ph_no">
+        <item>01590093</item>
+        <item>01584109</item>
+        <item>01585187</item>
+        <item>01593007</item>
+        <item>01291874</item>
+        <item>01291034</item>
+        <item>01556865</item>
+        <item>01547253</item>
+        <item>01561642</item>
+        <item>09699384</item>
+        <item>09695561</item>
+        <item>09699138</item>
+        <item>01556771</item>
+        <item>01562544</item>
+        <item>01562588</item>
+        <item>01291218</item>
+        <item>01556988</item>
+        <item>01577190</item>
+        <item>01660352</item>
+        <item>01680774</item>
+        <item>01519531</item>
+        <item>01681574</item>
+        <item>01534304</item>
+        <item>01554630</item>
+        <item>01535184</item>
+        <item>01535867</item>
+        <item>01708931</item>
+        <item>01220793</item>
+        <item>01224528</item>
+        <item>01253202</item>
+        <item>01371398</item>
+        <item>01371054</item>
+        <item>01216980</item>
+        <item>01269192</item>
+        <item>05621504</item>
+        <item>05625504</item>
+        <item>01645819</item>
+        <item>01645074</item>
+        <item>01600032</item>
+        <item>01645016</item>
+        <item>01620001</item>
+        <item>01629009</item>
+        <item>05520003</item>
+        <item>01708930</item>
+
+
+    </string-array>
+
+    <string name="fire_history_title">ျမန္မာနုိင္ငံမီးသတ္တပ္ဖဲြ႔ျဖစ္ေပၚလာပုံ</string>
+    <string name="fire_history_desc">သမုိင္းမွတ္တမ္းမ်ားအရ ပုဂံေခတ္အေနာ္ရထာမင္းေစာ(ေအဒီ-၁၀၄၄-၁၀၇၇)လက္ထက္ကပင္ မီးကပ္တပ္သား(၆၆၃)ဦး (ေသာေသာညံ ပုဂံမီးေဆာ္ေမာင္း) ခန္႔ထားျပီး ပုဂံေနျပည္ေတာ္၏ မီးေဘးကာကြယ္ေရးလုပ္ငန္းမ်ားကုိ ေဆာင္ရြက္ခဲ့ပါသည္။ ေရွးေခတ္ ျမန္မာမင္းအဆက္ဆက္ လက္ထက္တြင္လည္း မီးေဘး ကာကြယ္ေရး အမိန္႔ျပန္တမ္းမ်ား ထုတ္ျပန္ျပီး နုိင္ငံေတာ္မီးေဘးကာကြယ္ေရးလုပ္ငန္းမ်ား ေဆာင္ရြက္ခဲ့ၾကသည့္ အေထာက္ အထားမ်ားရိွပါသည္။ပထမဦးဆံုးေသာ ရန္ကုန္ျမဴနီစီပါယ္မီးသတ္ကုိ ၁၈၈၅ ခုနွစ္တြင္ တည္ေထာင္ခဲ့သည္။ (၁၉၃၂)ခုနွစ္တြင္ ရန္ကုန္ျမဴနီစီပယ္အက္ဥပေဒ အရ ေစတနာ႔၀န္ထမ္းမီးသတ္အဖဲြ႕အစည္းကုိ စတင္ဖဲြ႕စည္းခဲ့ျပီး (၁၉၄၇) ခုနွစ္၊ ေဖေဖာ္၀ါရီလ ( ၃ )ရက္ေန႔တြင္ ပညာေရးနွင့္ ေဒသနၱရအုပ္ခ်ဳပ္ေရး ဌာန၏အမိန္႔အရ မီးေဘးတားဆီးေရးနွင့္ မီးေဘးကာကြယ္ေရး ကိစၥရပ္မ်ားကုိေဆာင္ရြက္ရန္ မီးသတ္ဌာနကုိ မီးသတ္ညႊန္ၾကားေရး၀န္အပါအ၀င္ အရာထမ္း၊အမႈထမ္း ( ၂၁ )ဦးတို႔ျဖင့္ ဖဲြ႕စည္းခဲ့ပါသည္။ ၁၉၅၂ ခုနွစ္၊ မတ္လ( ၂၈ )ရက္ေန႔တြင္ မီးသတ္၀န္ထမ္း အက္ဥပေဒအမွတ္ ( ၆ ) ျပဌာန္းျပီး
+ျပည္ထဲေရး၀န္ႀကီးဌာနခဲြ၊ နုိင္ငံေတာ္အစုိးရမီးသတ္ဌာနတြင္ ၀န္ထမ္း( ၆၃၆ )ဦးျဖင့္ဖဲြ႔စည္းခဲ့ပါသည္။ ၁၉၆၃ ခုနွစ္ မီးသတ္တပ္ဖဲြ႕ဥပေဒကုိ အသစ္ ထုတ္ျပန္ျပဌာန္းခဲ့သည္။၁၉၇၂ ခုႏွစ္၊ စနစ္သစ္အုပ္ခ်ဳပ္ေရး ေဖာ္ထုတ္မႈအစီအစဥ္အရ အျခားဌာနမ်ားနွင့္ ၀န္ထမ္း ( ၄၄၈ )ဦး ေျပာင္းေရႊ႕ေရာက္ရိွလာရာ ၀န္ထမ္း အင္အား (၁၇၉၈)ဦးအထိ တုိးတက္လာခဲ့ျပီး (၂၄)နာရီတာ၀န္ထမ္းေဆာင္သည့္ မီးသတ္တပ္ဖဲြ႕ျဖစ္လာခဲ့ပါသည္။ ၁၉၈၀ ခုနွစ္၊ ဧျပီလ(၁)ရက္ေန့မွ စတင္၍ ရိကၡာေငြမ်ား ခံစားခြင့္ရရိွခဲ့ပါသည္။နုိင္ငံေတာ္ျငိမ္၀ပ္ပိျပားမႈတည္ေဆာက္ေရးအဖဲြ႔လက္ထက္ ၁၉၉၁ခုနွစ္၊ ဒီဇင္ဘာလမွစတင္၍ ဖဲြ႕စည္းပံုကုိ(၂၅၈၁)ဦးအထိ အင္အားတုိး ခ်ဲ႕ဖဲြ႕စည္းခဲ့ျပီး ( ၁၉၉၂ ) ခုနွစ္ ၊ ေဖေဖာ္၀ါရီလ ( ၂၀ ) ရက္ေန႔တြင္ မီးသတ္လုပ္ငန္းမ်ားကုိ က်ယ္က်ယ္ျပန္႔ျပန္ ႔ေဆာင္ရႊက္နုိင္ရန္ ျပည္ထဲေရးႏွင့္ သာသနာေရး ၀န္ႀကီးဌာနမွွ လူမႈ၀န္ထမ္း၊ကယ္ဆယ္ေရးနွင့္ျပန္ လည္ေနရာခ်ထားေရး၀န္ႀကီးဌာနသုိ့ ေျပာင္းေရႊ႕ခဲ့ပါသည္။နုိင္ငံေတာ္ေအးခ်မ္းသာယာေရးႏွင့္ ဖံြ႔ၿဖိဳးေရးေကာင္စီလက္ထက္ ၁၉၉၈ခုနွစ္၊ ဧျပီလ ( ၃၀ )ရက္ေန႔တြင္ အရာထမ္း၊ အမႈထမ္း( ၈၂၂ ) ဦး ပါ၀င္ေသာ ဗဟုိမီးသတ္ သင္တန္းေက်ာင္းႀကီးကုိ ဖြင့္လွစ္ခဲ့ပါသည္။ ၂၀၁၁ ခုနွစ္တြင္ မီးသတ္စခန္းမ်ားအား ယူနစ္အဆင့္ျမွင့္တင္ရန္ ( ၇၁၆၇ )ဦး ဖြဲ႕စည္းပံု တင္ျပခြင့္ျပဳခ်က္ရရိွခဲ့ပါသည္။ျပည္ေထာင္စုသမၼတျမန္မာႏိုင္ငံေတာ္အစိုးရလက္ထက္တြင္ မီးသတ္ဦးစီးဌာနသည္ လူမႈဝန္ထမ္း၊ကယ္ဆယ္ေရးႏွင့္ ျပန္လည္ေနရာခ်
+ထားေရးဝန္ႀကီးဌာနကြပ္ကဲမႈေအာက္မွ ( ၆.၁၁.၂၀၁၂ )ရက္ေန႔တြင္ ျပည္ထဲေရးဝန္ႀကီးဌာနကြပ္ကဲမႈေအာက္သို႔ ေျပာင္းေရြ႕တာဝန္ထမ္းေဆာင္ခဲ့ၿပီး၊ ၂၀၁၆ခုႏွစ္၊ မတ္လတြင္ မီးသတ္ဦးစီးဌာန၏ လုပ္ငန္းလိုအပ္ခ်က္အရ အရာထမ္း(၆၆၂)ဦး၊ အမႈထမ္း (၂၃၇၁၄) ဦး၊ စုစုေပါင္းဖြဲ႕စည္းပံုအင္အား (၂၄၃၇၆)ဦးျဖင္ ့မီးေဘးလံုၿခံဳေရးလုပ္ငန္းမ်ားကို ေဆာင္ရြက္လ်က္ရွိပါသည္။</string>
+
+    <string-array name="fire_name">
+        <item>အလုံ</item>
+        <item>ဘုရင္​့​ေနာင္​</item>
+        <item>ဒဂုံၿမိဳ႕သစ္​​ေျမာက္​ပိုင္​း</item>
+        <item>ဒဂုံၿမိဳ႕သစ္​​ေတာင္​ပိုင္​း</item>
+        <item>လိႈင္​သာယာ</item>
+        <item>လွည္​းကူး</item>
+        <item>​ေမွာ္​ဘီ</item>
+        <item>ေထာက္​ၾကံ့</item>
+        <item>အင္​းစိန္​</item>
+        <item>​ေက်ာက္​တံတား</item>
+        <item>ၾကည္​့ျမင္​တိုင္​</item>
+        <item>မရမ္​းကုန္​း</item>
+        <item>​ေျမာက္​ဥကၠလာပ</item>
+        <item>စမ္​း​ေခ်ာင္​း</item>
+        <item>​ေရႊ​ေပါက္​ကံ</item>
+        <item>​ေရႊျပည္​သာ</item>
+        <item>စည္​ပင္​</item>
+        <item>ေတာင္​ဥကၠလာပ</item>
+        <item>တာ​ေမြ</item>
+        <item>သာ​ေကတ</item>
+        <item>သဃၤန္​းကြၽန္​း</item>
+        <item>​ေဝဘာဂီ </item>
+    </string-array>
+
+    <string-array name="fire_ph_no">
+        <item>01220802</item>
+        <item>01681646</item>
+        <item>01584060</item>
+        <item>01590071</item>
+        <item>01707550</item>
+        <item>01629020</item>
+        <item>01620030</item>
+        <item>01600178</item>
+        <item>01640070</item>
+        <item>01252011</item>
+        <item>01534825</item>
+        <item>01661501</item>
+        <item>01699149</item>
+        <item>01527099</item>
+        <item>01699151</item>
+        <item>01611014</item>
+        <item>01667281</item>
+        <item>01562655</item>
+        <item>01554893</item>
+        <item>0156834</item>
+        <item>01562677</item>
+        <item>01699149</item>
+    </string-array>
+
+    <string-array name="thakhinmya">
+        <item>၁ယာဥ္ငယ္ (အစိမ္း)</item>
+        <item>၃၅ယာဥ္ၾကီး</item>
+        <item>၃ယာဥ္ငယ္(အၿဖဴ)</item>
+        <item>၄၃ယာဥ္ၾကီး</item>
+        <item>၄၃ယာဥ္ၾကီး(ဒညင္းကုန္း-လင့္စ္ေဒါင္း)</item>
+        <item>၄၄ယာဥ္ၾကီး(ေအာင္မဂၤလာအေဝးေျပး-လင့္စ္ေဒါင္း)</item>
+        <item>၅၄ယာဥ္ၾကီး</item>
+        <item>၆၂ယာဥ္ၾကီး(ေအးခ်မ္း(ဝါဆိုဦး)-ဗားကရာ)</item>
+        <item>၆၅ယာဥ္ၾကီး</item>
+        <item>၈၆(အစိမ္း)သမသ</item>
+        <item>၈၆(စီးတီးဘက္စ္)သမသ </item>
+        <item>၈၈(စီးတီးဘတ္စ္(သမသ))</item>
+        <item>၁၃၁ဟိုင္းလတ္ ၁</item>
+        <item>၁၀၇(အစိမ္း)မီနီဘတ္စ္</item>
+        <item>၁၃၂(တုိက္ၾကီး-သခင္ျမပန္းျခံ)</item>
+        <item>၁၉၉ယာဥ္ၾကီး</item>
+        <item>၂၁၀ ယာဥ္ၾကီး</item>
+    </string-array>
+
+    <string-array name="zoo">
+        <item>၃ယာဥ္ငယ္(အစိမ္း)</item>
+    </string-array>
+
+    <string-array name="thuwana">
+        <item>၃၆ယာဥ္ၾကီး(ေဘလီ ဘက္မွ)</item>
+        <item>၃၈သီးသန္႕(ယာဥ္ၾကီး)</item>
+        <item>၄၂ဘီအမ္</item>
+        <item>၅၆ယာဥ္ၾကီး(ယုဇန-က်ံဳးၾကီး)</item>
+        <item>၆၃ကားလတ္</item>
+        <item>၄၆သီးသန္႕(အဝါ)</item>
+        <item>၄၉ကားလတ္(အဝါ)</item>
+        <item>၁၇၃ပါရမီ</item>
+        <item>၂၀၁မီနီဘတ္စ္</item>
+        <item>၂၀၅ ယာဥ္ၾကီး</item>
+        <item>၂၃၆ (အျဖဴ)ဒိုင္နာ</item>
+        <item>အဓိပတိအဝါ</item>
+        <item>အဓိပတိအျဖဴ</item>
+        <item>၃၄အထူး</item>
+        <item>၁၇၃ အထူး(အဓိပတိ)</item>
+        <item>၃၈သီးသန္႕</item>
+
+    </string-array>
+    <string-array name="akawtha">
+        <item>၃၆ ယာဥ္ၾကီး</item>
+        <item>၆၉ ကားလတ္</item>
+        <item> ၅၀ ယာဥ္ၾကီး</item>
+        <item>၇၇(ဘီအမ္)သမသ</item>
+        <item>၁၀၆(အနီ)၂ဒိုင္နာ</item>
+        <item>၁၀၇(အျပာ)ဟိုင္းလတ္</item>
+        <item>၁၀၇(အစိမ္း)မီနီဘတ္စ္</item>
+        <item>၁၃၅ မီနီဘတ္စ္</item>
+        <item>၁၈၁ဟိုင္းလတ္</item>
+        <item>၂၁၆ ယာဥ္ၾကီး(တာေမြ)</item>
+
+    </string-array>
+
+    <string-array name="tarmwe">
+        <item>၃၆ယာဥ္ၾကီး(ေဘလီဘက္မွ)</item>
+        <item>၁၇၃ပါရမီ</item>
+        <item>အဓိပတိအျဖဴ</item>
+        <item>၁၈၂အထူး(ပါရမီ)</item>
+        <item>၃၃၃ အထူး</item>
+
+    </string-array>
+
+    <string-array name="theinphyu">
+        <item>၃၆ ယာဥ္ၾကီး(ေဘလီဘက္မွ)</item>
+        <item>၃၉ ယာဥ္ၾကီး(ငမိုးရိပ္-ေမာ္တင္)</item>
+        <item>၄၈ မီနီဘတ္စ္</item>
+        <item>၈၈(စီးတီးဘတ္စ္)သမသ</item>
+        <item>၄၃ ယာဥ္ၾကီး(အစိမ္း)</item>
+        <item>၂၂၆ (အနီ)၁ (ေျမာက္ပိုင္းခရိုင္)</item>
+        <item>၂၂၇ (အနီ)(အျပာ)(ေလွာ္ကား-သိမ္ျဖဴ)</item>
+        <item>အဓိပတိအျဖဴ</item>
+
+    </string-array>
+
+    <string-array name="northdagon">
+        <item>၃၆ ဘီအမ္(၅၀ေကြ႔)</item>
+
+    </string-array>
+
+    <string-array name="gatalit">
+        <item>၃၆ဘီအမ္(၅၀ေကြ႔)</item>
+        <item>၃၇ဘီအမ္</item>
+        <item>၄၃ယာဥ္ၾကီး(ေရႊေပါက္ကန္-က်ံဳးၾကီး)</item>
+        <item>၄၃ယာဥ္ၾကီး(ဆင္ဖံု-က်ံဳးၾကီး)</item>
+        <item>၄၆သီးသန္႔(အစိမ္း)</item>
+        <item>၇၆(မီနီဘက္စ္)ဘမဘ</item>
+        <item>၄၆သီးသန္႔(အဝါ)</item>
+        <item>၁၀၃မီနီဘက္စ္</item>
+
+    </string-array>
+    <string-array name="bahan3lan">
+        <item>၃၆ဘီအမ္(၅၀ေကြ႔)</item>
+        <item>၃၇ဘီအမ္</item>
+        <item>၄၆သီးသန္႔(အစိမ္း)</item>
+        <item>၄၆သီးသန္႔(အဝါ)</item>
+        <item>၇၆(မီနီဘက္စ္)ဘမဘ</item>
+        <item>၁၀၃မီနီဘက္စ္</item>
+        <item>၂၃၅ဘီအမ္</item>
+        <item>၂၃၆ဟိုင္းဟတ္</item>
+        <item>၂၄၅(ဒဂံုတကၠသိုလ္-သခင္ျမပန္းျခံ)</item>
+    </string-array>
+
+    <string-array name="theingyizay">
+        <item>၃၆ဘီအမ္(၅၀ေကြ႔)</item>
+        <item>၃၇ဘီအမ္</item>
+        <item>၂၃၆ဟိုင္းဟတ္</item>
+        <item>၃၉အထူး</item>
+        <item>၄၈အထူး(ကြန္ပ်ဴတာ)</item>
+        <item>၁၀၂အထူး</item>
+        <item>၁၂၄အထူး၁</item>
+        <item>၁၂၄အထူး၂</item>
+        <item>၁၅၇အထူး</item>
+
+    </string-array>
+
+    <string-array name="onethreethree">
+        <item>၃၆ ဘတ္စ္ (အစိမ္း)</item>
+        <item>၃၆ကားလတ္(အနီ)</item>
+    </string-array>
+    <string-array name="htan2pin">
+        <item>၃၆ကားလတ္(အနီ)</item>
+    </string-array>
+    <string-array name="oone">
+        <item>၃ယာဥ္ငယ္(အဝါ)</item>
+    </string-array>
+    <string-array name="du">
+        <item>၃၆ ဘတ္စ္ (အစိမ္း)</item>
+        <item>ေမတၱာလွိဳင္း ၁</item>
+        <item>၁၃၆ အထူး၁</item>
+        <item>၃၆ကားလတ္အနီ</item>
+    </string-array>
+    <string-array name="eightmile">
+        <item>၄၃ကားလတ္အျဖဴ</item>
+        <item>၅၁ယာဥ္ျကီး</item>
+        <item>၁၃၅ မီနီဘတ္စ္</item>
+        <item>၁၄၁ ျမဝတီ </item>
+        <item>၁၆၈ဒိုင္နာ</item>
+    </string-array>
+    <string-array name="kyitewine">
+        <item>၃၆ကားလတ္(အနီ)</item>
+    </string-array>
+    <string-array name="aung">
+        <item>၃၆ဘတ္စ္အစိမ္း</item>
+    </string-array>
+
+    <string-array name="zawana">
+        <item>၃၆ဘတ္စ္ အစိမ္း</item>
+        <item>၆၂ဘတ္စ္</item>
+        <item>၄၉ကားလတ္ (အစိမ္း)</item>
+        <item>အနီ</item>
+        <item>အဝါ</item>
+        <item>ေအာင္မဂၤလာအေဝးေျပး</item>
+        <item>၅၂ကားလတ္</item>
+        <item>၇၇ဘီအမ္ သမသ</item>
+        <item>အစိမ္းသမသ</item>
+        <item>၈၈စီးတီးဘတ္စ္ သမသ</item>
+        <item>၁၀၅ဒိုင္နာ</item>
+    </string-array>
+
+    <string-array name="nodagon">
+        <item>၃၇ဘီအမ္</item>
+    </string-array>
+    <string-array name="train">
+        <item>င-၁ 4:30 am</item>
+        <item>ခ-၁ 4:55 am</item>
+        <item>မ-၁ 5:30</item>
+        <item>ဆ၁ 5:50</item>
+        <item>က၁ 6:05</item>
+        <item>စ၁ 6:15</item>
+        <item>ပ၁ 6:15</item>
+        <item>ဒ၁ 6:35</item>
+        <item>ဇ၁ 6:50</item>
+        <item>တ၃ 6:50</item>
+        <item>မ၃ 7:10</item>
+        <item>ယ၂ 7:35</item>
+        <item>သ၃ 8:10</item>
+        <item>င၅ 8:25</item>
+        <item>ခ၅ 8:40</item>
+        <item>န၂ 8:50</item>
+        <item>ပ၃ 8:54</item>
+        <item>ဆ၂ 9:00</item>
+        <item>က၂ 9:00</item>
+        <item>ဟ၂ 9:05</item>
+    </string-array>
+
+
+</resources>

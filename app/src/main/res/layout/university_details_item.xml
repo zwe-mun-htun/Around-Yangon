@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Name"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textStyle="bold"
+                android:padding="4dp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_margin="4dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/uni_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="University of Computer studies(Yangon)"
+                android:layout_margin="4dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:lineSpacingMultiplier="1.3"
+                android:padding="4dp"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Details"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textStyle="bold"
+                android:padding="4dp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_margin="4dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/uni_details"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Motto 	မြန်မှန်တွက်ချက် တိုင်းပြည်တွက်
+Established 	1971
+Rector 	Dr. Mie Mie Thet Thwin
+Location 	 Yangon, Myanmar Myanmar
+Colors 	 Turquoise
+Affiliations  SOI Asia
+Website 	 www.ucsy.edu.mm"
+                android:layout_margin="4dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:lineSpacingMultiplier="1.3"
+                android:padding="4dp"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="About"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textStyle="bold"
+                android:padding="4dp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_margin="4dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/uni_about"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The University of Computer Studies, Yangon (UCSY) (Burmese: ရန်ကုန်ကွန်ပျူတာတက္ကသိုလ် [jàɴɡòʊɴ kʊ̀ɴpjùtà tɛʔkəθò]), located in the outskirts of Yangon (Hlaw Gar), is the leading IT and computer science university of Myanmar.[1] The university, administered by the Ministry of Science and Technology, "
+                android:layout_margin="4dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:lineSpacingMultiplier="1.3"
+                android:padding="4dp"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Location"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textStyle="bold"
+                android:padding="4dp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_margin="4dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/uni_loc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hlawgar"
+                android:layout_margin="4dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:lineSpacingMultiplier="1.3"
+                android:padding="4dp"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Contact"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textStyle="bold"
+                android:padding="4dp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_margin="4dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/uni_contact"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="09"
+                android:layout_margin="4dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:lineSpacingMultiplier="1.3"
+                android:padding="4dp"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

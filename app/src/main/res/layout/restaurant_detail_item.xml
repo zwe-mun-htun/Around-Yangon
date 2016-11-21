@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Name"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textStyle="bold"
+                android:padding="4dp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_margin="4dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/res_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="999 Shan Noodle Restaurant"
+                android:layout_margin="4dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:lineSpacingMultiplier="1.3"
+                android:padding="4dp"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Average Price"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textStyle="bold"
+                android:padding="4dp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_margin="4dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/res_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MMK 2,400"
+                android:layout_margin="4dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:lineSpacingMultiplier="1.3"
+                android:padding="4dp"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cuisine"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textStyle="bold"
+                android:padding="4dp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_margin="4dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/res_cuisine"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Blah blah blah"
+                android:layout_margin="4dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:lineSpacingMultiplier="1.3"
+                android:padding="4dp"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Meals"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textStyle="bold"
+                android:padding="4dp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_margin="4dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/res_meal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Brunch, Breakfast, Lunch, Dinner"
+                android:layout_margin="4dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:lineSpacingMultiplier="1.3"
+                android:padding="4dp"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Restaurant Feature"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textStyle="bold"
+                android:padding="4dp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_margin="4dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/res_fea"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Takeout"
+                android:layout_margin="4dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:lineSpacingMultiplier="1.3"
+                android:padding="4dp"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Good For"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textStyle="bold"
+                android:padding="4dp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_margin="4dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/res_cond"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Blah Blah"
+                android:layout_margin="4dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:lineSpacingMultiplier="1.3"
+                android:padding="4dp"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Open Hours"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textStyle="bold"
+                android:padding="4dp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_margin="4dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/res_hour"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cheaper and old style cinema"
+                android:layout_margin="4dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:lineSpacingMultiplier="1.3"
+                android:padding="4dp"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Address"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textStyle="bold"
+                android:padding="4dp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_margin="4dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/res_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Near Sulay Pagodas and Yangon RailwayStation"
+                android:layout_margin="4dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:lineSpacingMultiplier="1.3"
+                android:padding="4dp"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+
+
+</LinearLayout>
